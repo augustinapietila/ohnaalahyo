@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hociethee.wriode.com/sitemap.xml
